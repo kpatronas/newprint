@@ -1,5 +1,5 @@
 # newprint
-A simple bash script which allows you to print only newly appended lines since last run
+A simple bash script which prints only appended lines of a file since last run
 
 # setup
 ```
